@@ -7,13 +7,13 @@ public class timeComplexityExample3 {
 		int N = 10000;
 		int cnt = 0;
 		for(int i = 0; i < N; i++) {
-			System.out.println("¿¬»ê È½¼ö:" + cnt++);
+			System.out.println("ì—°ì‚° íšŸìˆ˜:" + cnt++);
 		}
 		for(int i = 0; i < N; i++) {
-			System.out.println("¿¬»ê È½¼ö:" + cnt++);
+			System.out.println("ì—°ì‚° íšŸìˆ˜:" + cnt++);
 		}
 		for(int i = 0; i < N; i++) {
-			System.out.println("¿¬»ê È½¼ö:" + cnt++);
+			System.out.println("ì—°ì‚° íšŸìˆ˜:" + cnt++);
 		}
 	}
 

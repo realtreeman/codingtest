@@ -8,7 +8,7 @@ public class timeComplexityExample4 {
 		int cnt = 0;
 		for(int i = 0; i < N; i++) {
 			for(int j= 0; j < N; j++) {
-				System.out.println("¿¬»ê È½¼ö:" + cnt++);	
+				System.out.println("ì—°ì‚° íšŸìˆ˜:" + cnt++);	
 			}
 		}
 	}
